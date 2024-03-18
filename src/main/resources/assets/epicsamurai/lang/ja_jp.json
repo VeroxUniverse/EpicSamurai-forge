@@ -156,6 +156,22 @@
   "item.epicsamurai.katana_jorogumo": "女郎蜘蛛のカタナ",
   "item.epicsamurai.spirit_flame": "魂火",
   "item.epicsamurai.spirit_upgrade_smithing_template": "魂の鍛冶型",
+  "item.epicsamurai.tyr_samurai_helmet": "Tyr サムライヘルメット",
+  "item.epicsamurai.tyr_samurai_chestplate": "Tyr サムライチェストプレート",
+  "item.epicsamurai.tyr_samurai_leggings": "Tyr サムライレギンス",
+  "item.epicsamurai.tyr_samurai_boots": "Tyr サムライブーツ",
+  "item.epicsamurai.draco_samurai_helmet": "Draco Arcanus サムライヘルメット",
+  "item.epicsamurai.draco_samurai_chestplate": "Draco Arcanus サムライチェストプレート",
+  "item.epicsamurai.draco_samurai_leggings": "Draco Arcanus サムライレギンス",
+  "item.epicsamurai.draco_samurai_boots": "Draco Arcanus サムライブーツ",
+  "item.epicsamurai.tanegashima": "タネガシマ",
+  "item.epicsamurai.odachi": "オオダチ",
+  "item.epicsamurai.kamayari": "カマヤリ",
+  "item.epicsamurai.tonbukiri": "トンボキリ",
+  "item.epicsamurai.odachi_netherite": "ネザライトのオオダチ",
+  "item.epicsamurai.kamayari_netherite": "ネザライトのカマヤリ",
+  "item.epicsamurai.tonbukiri_netherite": "ネザライトのトンボキリ",
+  "item.epicsamurai.bullet": "弾丸",
 
   "entity.epicsamurai.oni": "鬼",
   "entity.epicsamurai.akaname": "あかなめ",
@@ -203,6 +219,13 @@
   "block.epicsamurai.mossy_spirit_stone_brick_wall": "苔むした魂石レンガの塀",
   "block.epicsamurai.mossy_spirit_stone_brick_slab": "苔むした魂石レンガのハーフブロック",
   "block.epicsamurai.mossy_spirit_stone_brick_stairs": "苔むした魂石レンガの階段",
+  "block.epicsamurai.tanuki_statue": "タヌキの石像",
+  "block.epicsamurai.komainu_statue": "狛犬の石像",
+  "block.epicsamurai.kawauso_statue": "かわうその石像",
+  "block.epicsamurai.stone_roof": "瓦屋根の平部",
+  "block.epicsamurai.stone_roof_top": "瓦屋根の頭頂部",
+  "block.epicsamurai.stone_roof_corner": "瓦屋根の角部",
+  "block.epicsamurai.spirit_stone_base": "魂石",
 
   "itemGroup.epicsamurai": "Epic Samurai's",
 
@@ -220,6 +243,11 @@
   "info.epicsamurai.mask.ability_3": "§b鈍足§7に対する耐性",
 
 
-  "enchantment.epicsamurai.returning_blade.desc": "クナイを投げても耐久値が落ちない。"
+  "enchantment.epicsamurai.returning_blade.desc": "クナイを投げても耐久値が落ちない。",
+
+  "sound.epicsamurai.gun_hit": "弾丸がヒット",
+  "sound.epicsamurai.gun_shoot": "銃声",
+  "sound.epicsamurai.gun_reload": "銃をリロード",
+  "sound.epicsamurai.gun_reload_drop": "銃のリロード完了"
 
 }
