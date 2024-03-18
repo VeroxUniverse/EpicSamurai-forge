@@ -156,6 +156,22 @@
   "item.epicsamurai.katana_jorogumo": "Катана Дзёрогумо",
   "item.epicsamurai.spirit_flame": "Огонь Ониби",
   "item.epicsamurai.spirit_upgrade_smithing_template": "Кузнечный шаблон духа",
+  "item.epicsamurai.tyr_samurai_helmet": "Самурайский шлем Тира",
+  "item.epicsamurai.tyr_samurai_chestplate": "Самурайский нагрудник Тира",
+  "item.epicsamurai.tyr_samurai_leggings": "Самурайские поножи Тира",
+  "item.epicsamurai.tyr_samurai_boots": "Самурайские ботинки Тира",
+  "item.epicsamurai.draco_samurai_helmet": "Мистический самурайский шлем летучего дракона",
+  "item.epicsamurai.draco_samurai_chestplate": "Мистический самурайский нагрудник летучего дракона",
+  "item.epicsamurai.draco_samurai_leggings": "Мистические самурайские поножи летучего дракона",
+  "item.epicsamurai.draco_samurai_boots": "Мистические самурайские ботинки летучего дракона",
+  "item.epicsamurai.tanegashima": "Танэгасима",
+  "item.epicsamurai.odachi": "Одати",
+  "item.epicsamurai.kamayari": "Камаяри",
+  "item.epicsamurai.tonbukiri": "Тонбукури",
+  "item.epicsamurai.odachi_netherite": "Незеритовый Одати",
+  "item.epicsamurai.kamayari_netherite": "Незеритовый Камаяри",
+  "item.epicsamurai.tonbukiri_netherite": "Незеритовый Тонбукури",
+  "item.epicsamurai.bullet": "Пуля",
 
   "entity.epicsamurai.oni": "Они",
   "entity.epicsamurai.akaname": "Аканамэ",
@@ -206,7 +222,7 @@
 
   "itemGroup.epicsamurai": "Epic Samurai's",
 
-  "enchantment.epicsamurai.demon_slayer": "Убийца демонов",
+  "enchantment.epicsamurai.returning_blade": "Вратящийся клинок",
 
   "item.epicsamurai.brass_samurai_helmet.tooltip": "GOGGLES",
   "item.epicsamurai.brass_samurai_helmet.tooltip.summary": "Добавляет к HUD _прочую информацию_ о поставленных компонентах.",
@@ -218,5 +234,13 @@
   "info.epicsamurai.mask.ability_1": "§7Повышает §bСопротивление к огню§7.",
   "info.epicsamurai.mask.ability_2": "§7Иммунитет к §bСлепоте§7.",
   "info.epicsamurai.mask.ability_3": "§7Иммунитет к §bЗамедлению§7."
+
+  
+  "enchantment.epicsamurai.returning_blade.desc": "Кунаи не теряет прочности при использовании."
+  
+  "sound.epicsamurai.gun_hit": "Пистолет попал",
+  "sound.epicsamurai.gun_shoot": "Пистолет стреляет",
+  "sound.epicsamurai.gun_reload": "Пистолет перезаряжается",
+  "sound.epicsamurai.gun_reload_drop": "Пистолет перезарядился"
 
 }
